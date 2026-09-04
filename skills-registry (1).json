@@ -1,0 +1,376 @@
+{
+  "_meta": {
+    "generated": "2026-09-04",
+    "source": "claude.ai installed user skills",
+    "scheme": "central-registry v1",
+    "note": "version+updated authoritative; sha256 is the SKILL.md fingerprint at register time. Bump all three when you ship a change."
+  },
+  "skills": {
+    "agency-agents": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "bd1b4bb34c2e58c9a7b3781205b21ddac4a18681ac95338fac9c54869c9414e6",
+      "notes": ""
+    },
+    "ai-seo-landing": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "6aecf1f3ef2c74896baed5695dd58d2738d99f80e3779315eab19e855956f90d",
+      "notes": ""
+    },
+    "ai-slop-tells": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "6b374647fc783f85880dbae0c7f605793bab7eeaacebda96b5a282b9393ee9d6",
+      "notes": "registered 2026-09-04; installed in plugins root"
+    },
+    "animate-ui": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "f4936b74538907d7f98066eee2e941b55762ec5118ee16d5d993ed9a290a79cc",
+      "notes": ""
+    },
+    "api-catalog": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "f554128a129851bbec07f01fb82661a7c562975ef3a73a7c6740f978da0731a0",
+      "notes": ""
+    },
+    "arwes-hud": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "be1fe7e2e5cd688f407cdbfbed7ce1938d434b63b8666ec31d8ffe4d7e736d91",
+      "notes": ""
+    },
+    "attribution": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "10bdf582695698998301a9d81022eeaaad35658cf5a8f78cf92ffb999958a022",
+      "notes": ""
+    },
+    "bg-remove": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "a9367d73b943dace26865490edba559e9d4f8f1de7ad6f6539a28e6d44dcccd9",
+      "notes": ""
+    },
+    "brink-core-os": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "c1500e1fc09bf0fa5485fa94bb75ea679ac773f8fb0e10f519059273d5182d63",
+      "notes": ""
+    },
+    "browser-only-deploy": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "67f197d4d3c38be3fcc54e751acc2812ab152673b02171e477204e7c649cdd23",
+      "notes": ""
+    },
+    "changedetection-io": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "85ea14d17d049b5581c3c70ef469abc0a085ad74a5a4eadfa67724e4b0eed654",
+      "notes": ""
+    },
+    "clipify": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "f428c159cf10cc4d00e0854e2fc7bf0b68a7c80f2e5f8dd2721c6b9583ae9c7a",
+      "notes": ""
+    },
+    "color-expert": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "36656da07b9c61c090b01e50e8ef7b3e19dcec4260f9b2c7e7ba61475ba12655",
+      "notes": ""
+    },
+    "cowork-account-standards": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "09bac31b09e0577f3479e87f809bf833fa5edfb77eba30e4cc5906adca5cf2de",
+      "notes": ""
+    },
+    "cro": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "49a96cf9e73598e8cc5723f89f577d1c676962629a1879c45cd584986facef06",
+      "notes": ""
+    },
+    "dealership-ads": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "0e994f27d51a203660f37f1f58c9155e9f9ae9dcf1a22e26e78296a0b0a34c02",
+      "notes": ""
+    },
+    "deep-research": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "56689884c4c9e0775dd2e2f6235d298d1fc2b67c875907fd612f2307fd198ace",
+      "notes": ""
+    },
+    "design-dna": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "c04472d2cced644f48485f630cb48e2f496624c65b9f0e5f28aec9af153c7fbf",
+      "notes": ""
+    },
+    "design-icks": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "cd84efaa9ba4f10724cfdd4c4b72b60500572fc786a4d7fd5d44d57f6884a3fd",
+      "notes": "edited 2026-09-04, upload pending"
+    },
+    "design-lanes": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "ba1d0e06860cd2a306a303cf5f2c2bd04e442df3207b49e6ab6e773ec8150c04",
+      "notes": ""
+    },
+    "design-taste-frontend": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+      "notes": ""
+    },
+    "email-marketing": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "4f43228e9cb66dc2f844ebba4e5e51ca0a83f7491cad0c4bf20627558d9cdd12",
+      "notes": ""
+    },
+    "fabric-patterns": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "74b3540acab826fcf85bc0d19b6c088853b2ba573487d80074dc7dc1a126a8d6",
+      "notes": ""
+    },
+    "genmedia-prompt-recipes": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "16d4eced0da5e984d180cc6e49de9c6dbe5ce334a37ca4cba1903a6f165c4f92",
+      "notes": ""
+    },
+    "gpt-researcher": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "641fed5a76d8b59266b0edf54eb608c6bd37bc90ddec55ea6c2ecc3c23c66cab",
+      "notes": ""
+    },
+    "gsap": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "cced55d6bdb21857366167934213cca1c731973469cf82917b725145b8b55dba",
+      "notes": ""
+    },
+    "huashu-design": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "614420f7517075ed7674a4bc48ba3fb074f242a43df064378ebe7f390d116458",
+      "notes": ""
+    },
+    "hyperframes": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "f3899934dc2538ace3da8860fd34f09eea1bd4731260a74d8c58dfaf8047cbad",
+      "notes": ""
+    },
+    "insect-police": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "7d0640d5cd3809f31c3a780a4fd6449001c525bbc638557b2df5719e497710ff",
+      "notes": ""
+    },
+    "less-code": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "81f1a276a5fc200fc72e3e406de46b62905466c5bda373468da125e02d90ddb4",
+      "notes": "delivered 2026-09-04, upload pending"
+    },
+    "liveportrait": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "3c17dc73cb649e9b517d8cfd9dfdcd5b10785cfa3a278b949177d76d6fb47d0d",
+      "notes": ""
+    },
+    "lottie-animations": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "13e64ab83e3fe5af75ce2f2ab730966d89aa5ab6b6a2209a53dc22229525de18",
+      "notes": ""
+    },
+    "max-bdc-agent": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "2e80d45a1dddc4a6f2d42539f510872c8bf0b92a239a859ce47b22876a947661",
+      "notes": ""
+    },
+    "max-design-build": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "39740842657a881c19bdc619f07e8d34ec623425253d681b413124801f73bb8b",
+      "notes": "re-synced from installed copy 2026-09-04"
+    },
+    "max-diagrams": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "f473d9ae8ff1e257bee9d3c35d1ad99bbcd0701e51d68a5f2f95583dc12d0639",
+      "notes": ""
+    },
+    "max-google-sso": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "7d20edcbff4bb99e7408d9762fa414cadeebd17f70a603b6298fae11f2a6daee",
+      "notes": "delivered 2026-09-04, upload pending"
+    },
+    "max-pitch-deck": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "450b5558c3149958d4f4549fee9f9ca6b1c28d014b9931bc8b324ba77a11bf80",
+      "notes": "edited 2026-09-04, upload pending"
+    },
+    "max-preflight": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "24b175b5815a527a35904ac01be241537b0dbc6dc995c2666a1a513e7bd2d566",
+      "notes": ""
+    },
+    "max-transit": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "64c1ac71d978264b44ef970f6ac39b049605c88e78bf2ffaec85af4598d2f3a7",
+      "notes": ""
+    },
+    "modern-web-design": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "062b0120b59067744c135ec5d49d71e468b8e16de92ec2dec6fc19c41c4a9a24",
+      "notes": ""
+    },
+    "oracle": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "6624107492ab53ccfcb89d8791f08fc01ae0fff1ed264fd14a212c90e5827da1",
+      "notes": ""
+    },
+    "podcast-polish": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "b72f642771a4fde8396a179dda3620aea08daf8a4977f7f324c58c165facc837",
+      "notes": ""
+    },
+    "post-scorer": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "c13865f0f6dace269bd791e2ef87cbc5ff227fa9cea75cc98ea0916c6a5afd9c",
+      "notes": ""
+    },
+    "project-blueprint": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "224be5b28884382dfbb203816ee60f21e4fbfa5ca621644db12b6aa30a6bca98",
+      "notes": ""
+    },
+    "project-to-business": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "0e340aa5db0dd599bd1027542dab3c5d4d4f85dbe3c0535de2a2a5db3b31cf2b",
+      "notes": ""
+    },
+    "prompt-rigor": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "12fbb76aedbaac6e2d2ae196a5cfaf692b6bdd1a30f8409582d93d072cc89f8a",
+      "notes": ""
+    },
+    "pycaps": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "632f7e6edf152cbda483ec27a37d4951be9270df09b0c3843f7807e2dcdc644a",
+      "notes": ""
+    },
+    "reels-scripting": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "7f18932693fa9b178219fd83eb58267bd51ca31b9237ffb7810ee8ff8487f61d",
+      "notes": ""
+    },
+    "remotion-best-practices": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "29bae1685c215739e7afac45c39c0cb0bf21c3f8f6eac0ff573b21424897808a",
+      "notes": ""
+    },
+    "repo-triage": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "68c6ba6f402aef63f87bc953889ccdec35b08e958d355f2246f9f11ef993029a",
+      "notes": ""
+    },
+    "researching-competitor-ads": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "b51f518e2a2117554c18f466138c387971a27ea2bca4d23e3eb8b0780f1b6fcc",
+      "notes": ""
+    },
+    "seamus-webgl-fx": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "dbb184f5cffe666de26909d5974bdea0b70499bbc6d5cf7a41a0ecebec3c576f",
+      "notes": "registered 2026-09-04; installed in plugins root"
+    },
+    "seo-hreflang": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "6b2b42dad5ebc578a506b242ccdb773f6d5677ee5edf2512f4b47c26fd9f2bf8",
+      "notes": ""
+    },
+    "seo-programmatic": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "d1f0a210703637dabb46193416c69998062038a8df09ec131f6ebcd176ad64bb",
+      "notes": ""
+    },
+    "seo-sitemap": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "85b76e3c09bc1da530ea7a8d92b6383c4eafcb5343743e0568a62527fb71fe23",
+      "notes": ""
+    },
+    "shot-language": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "67fd515a483281bbdc2139f26a6043c610e371f47b9b5e35e6aabedba63820b1",
+      "notes": ""
+    },
+    "skill-registry": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "c4389853fdb1bc3b29116149c7e01f28da17b1f2ce9ee178e70fecb09b2c19b8",
+      "notes": "delivered 2026-09-04, upload pending"
+    },
+    "threejs": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "58722599d7790b68cfce1e33c7a6ea8e19de4f5e3489f61ee62c3c9b98fb41be",
+      "notes": ""
+    },
+    "twitter-algorithm-optimizer": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "02c54656a672b022284af86ab2cd18181c42f02c18e395ff33fbe44b2beeb5ab",
+      "notes": ""
+    },
+    "ui-ux-pro-max": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "e6a7243c97dfc47d5cbeb60dc70e6f4ced5b3f9b18de53229e522bc36b67e17f",
+      "notes": ""
+    },
+    "video-toolkit": {
+      "version": "1.0.0",
+      "updated": "2026-09-04",
+      "sha256": "be2a987729498a5c7535a2f9fdd033f4846d17aa87a9f8999423d03785b2eeb9",
+      "notes": ""
+    }
+  }
+}
