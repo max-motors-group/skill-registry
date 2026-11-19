@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated": "2026-09-04",
+    "generated": "2026-11-18",
     "source": "claude.ai installed user skills",
     "scheme": "central-registry v1",
     "note": "version+updated authoritative; sha256 is the SKILL.md fingerprint at register time. Bump all three when you ship a change."
@@ -31,10 +31,10 @@
       "notes": ""
     },
     "api-catalog": {
-      "version": "1.0.0",
-      "updated": "2026-09-04",
-      "sha256": "f554128a129851bbec07f01fb82661a7c562975ef3a73a7c6740f978da0731a0",
-      "notes": ""
+      "version": "1.1.0",
+      "updated": "2026-11-18",
+      "sha256": "7e7662dd1dfd86bddfd6c30ab3771dbb450c542161772501c25bf741dfbb1ad8",
+      "notes": "Catalog refreshed to 2,388 entries, --cors filter added, YAML description fix"
     },
     "arwes-hud": {
       "version": "1.0.0",
@@ -65,6 +65,12 @@
       "updated": "2026-09-04",
       "sha256": "67f197d4d3c38be3fcc54e751acc2812ab152673b02171e477204e7c649cdd23",
       "notes": ""
+    },
+    "cc0-game-assets": {
+      "version": "1.0.0",
+      "updated": "2026-11-18",
+      "sha256": "0f740fca6e4cdc22cd78ed13dfd52b58921bac3ac3e13a33d33d3f6ea5206ef4",
+      "notes": "First registered 2026-11-18"
     },
     "changedetection-io": {
       "version": "1.0.0",
@@ -102,11 +108,17 @@
       "sha256": "0e994f27d51a203660f37f1f58c9155e9f9ae9dcf1a22e26e78296a0b0a34c02",
       "notes": ""
     },
-    "deep-research": {
+    "dealership-social": {
       "version": "1.0.0",
-      "updated": "2026-09-04",
-      "sha256": "56689884c4c9e0775dd2e2f6235d298d1fc2b67c875907fd612f2307fd198ace",
-      "notes": ""
+      "updated": "2026-11-18",
+      "sha256": "6e04cdc353a607eab467094a03e28b678e34624e68413440530f1914dfd027dc",
+      "notes": "First registered 2026-11-18"
+    },
+    "deep-research": {
+      "version": "1.0.1",
+      "updated": "2026-11-18",
+      "sha256": "46ae8d5a0b95efad0329ac287ea5248c19fbbe195d8270231c4a78ba6217c024",
+      "notes": "Re-fingerprinted to the installed copy on 2026-11-18; change not itemized"
     },
     "design-dna": {
       "version": "1.0.0",
@@ -115,10 +127,10 @@
       "notes": ""
     },
     "design-icks": {
-      "version": "1.0.0",
-      "updated": "2026-09-04",
-      "sha256": "cd84efaa9ba4f10724cfdd4c4b72b60500572fc786a4d7fd5d44d57f6884a3fd",
-      "notes": "edited 2026-09-04, upload pending"
+      "version": "1.1.0",
+      "updated": "2026-11-18",
+      "sha256": "8353a976602d3c84d3e842d7df18a061a86386727a78f5b27bb8a85e5e702cfa",
+      "notes": "ICK #06 (AI-generated-look tells) added"
     },
     "design-lanes": {
       "version": "1.0.0",
@@ -175,10 +187,22 @@
       "notes": ""
     },
     "insect-police": {
+      "version": "1.1.0",
+      "updated": "2026-11-18",
+      "sha256": "b5e11112a432f3f586e9fba2f81c8c846c626ba23481ae3ef23149b1afe8f2d0",
+      "notes": "Sixth review lens (state integrity) added, YAML description fix"
+    },
+    "jb-delegation-recap": {
       "version": "1.0.0",
-      "updated": "2026-09-04",
-      "sha256": "7d0640d5cd3809f31c3a780a4fd6449001c525bbc638557b2df5719e497710ff",
-      "notes": ""
+      "updated": "2026-11-18",
+      "sha256": "5b426ebf74e2af646056a7b4825785a60728f4c99e774e9dc5e2f8c615b504ed",
+      "notes": "First registered 2026-11-18"
+    },
+    "learn-anything": {
+      "version": "1.0.0",
+      "updated": "2026-11-18",
+      "sha256": "f76859a3335b33ee6aa5c629ac995d26fb9c163920850615c0f030a0974a8b25",
+      "notes": "First registered 2026-11-18"
     },
     "less-code": {
       "version": "1.0.0",
@@ -229,16 +253,16 @@
       "notes": "edited 2026-09-04, upload pending"
     },
     "max-preflight": {
-      "version": "1.0.0",
-      "updated": "2026-09-04",
-      "sha256": "24b175b5815a527a35904ac01be241537b0dbc6dc995c2666a1a513e7bd2d566",
-      "notes": ""
+      "version": "1.1.0",
+      "updated": "2026-11-18",
+      "sha256": "357b7a5c98dd33dfeecddb401611535a75bb7deb93fca0d9afd0225fb794d3c6",
+      "notes": "Added check 15: reduced motion honored, plus its verdict-block row"
     },
     "max-transit": {
-      "version": "1.0.0",
-      "updated": "2026-09-04",
-      "sha256": "64c1ac71d978264b44ef970f6ac39b049605c88e78bf2ffaec85af4598d2f3a7",
-      "notes": ""
+      "version": "1.0.1",
+      "updated": "2026-11-18",
+      "sha256": "184f3796a05a5f5a1dfbe55d5895754617007a7a6c61d525118d83cc49653c66",
+      "notes": "Re-fingerprinted to the installed copy on 2026-11-18; change not itemized"
     },
     "modern-web-design": {
       "version": "1.0.0",
@@ -252,6 +276,12 @@
       "sha256": "6624107492ab53ccfcb89d8791f08fc01ae0fff1ed264fd14a212c90e5827da1",
       "notes": ""
     },
+    "photo-fix": {
+      "version": "1.0.0",
+      "updated": "2026-11-18",
+      "sha256": "5cd2af15a33da8676184207db0fb2cff3ccc3a1e5bf58fb915eb4710d8da5c9e",
+      "notes": "First registered 2026-11-18"
+    },
     "podcast-polish": {
       "version": "1.0.0",
       "updated": "2026-09-04",
@@ -263,6 +293,12 @@
       "updated": "2026-09-04",
       "sha256": "c13865f0f6dace269bd791e2ef87cbc5ff227fa9cea75cc98ea0916c6a5afd9c",
       "notes": ""
+    },
+    "production-ready": {
+      "version": "1.0.0",
+      "updated": "2026-11-18",
+      "sha256": "8128dc86fe92562212f7f8b41334a4b026b89287a61bf25b81e128d12659f171",
+      "notes": "First registered 2026-11-18"
     },
     "project-blueprint": {
       "version": "1.0.0",
@@ -301,10 +337,10 @@
       "notes": ""
     },
     "repo-triage": {
-      "version": "1.0.0",
-      "updated": "2026-09-04",
-      "sha256": "68c6ba6f402aef63f87bc953889ccdec35b08e958d355f2246f9f11ef993029a",
-      "notes": ""
+      "version": "2.1.0",
+      "updated": "2026-11-18",
+      "sha256": "05f9813b05b0ff732596162f560a04e27eda5851f3b5c6eb6eb0e8ee50e1353d",
+      "notes": "v2 feed-triage rewrite with Four Walls and scorecard (not registered at the time) + 2026-11-18 in-sandbox audio transcription recipe"
     },
     "researching-competitor-ads": {
       "version": "1.0.0",
